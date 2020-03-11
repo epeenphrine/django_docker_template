@@ -121,6 +121,6 @@ STATIC_URL = '/static/'
 
 
 
-STATIC_ROOT = '/django_test/static/'
+STATIC_ROOT = '/testing/static/'
 MEDIA_URL = '/media/'
-MEDIA_ROOT = '/django_test/media/'
+MEDIA_ROOT = '/testing/media/'
